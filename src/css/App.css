@@ -1,0 +1,31 @@
+
+code {
+  color: #000000;
+}
+
+.entity {
+  color: darkgreen;
+}
+
+.highlighted {
+  color: black;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.column.right {
+
+  border-left: 1px solid #909090;
+}
+
+.App.container {
+  padding: 20px;
+
+}
+
+.container.article {
+
+  background-color: #f5f5f5;
+  padding: 20px;
+  border-radius: 10px;
+}
